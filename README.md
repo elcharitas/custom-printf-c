@@ -1,1 +1,2 @@
-# custom-printf-c
+# Custom Printf
+> custom implementation of printf
